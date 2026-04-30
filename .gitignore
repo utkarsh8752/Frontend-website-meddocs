@@ -4,7 +4,7 @@ logs
 **/*.backup.*
 **/*.back.*
 
-node_modules
+# node_modules
 bower_components
 
 *.sublime*
@@ -15,4 +15,4 @@ psd
 thumb
 sketch
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#react
+# End of https://mrkandreev.name/snippets/gitignore-generator/#react-
